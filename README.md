@@ -20,6 +20,6 @@ This project creates a GUI application that can solve any sudoku puzzles using o
 **Hint**: reveal an answer of a cell, the order is based on the route of the chosen algorithm  
 
 ## App Interface
-![App Interface](screenshots/app_interface.png?raw=true "App Interface")
+The AI is solving a sudoku puzzle.
 ![App Solving](screenshots/app_solving.png?raw=true "App Solving")
 
