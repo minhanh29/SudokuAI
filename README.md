@@ -19,5 +19,7 @@ This project creates a GUI application that can solve any sudoku puzzle using or
 **Reset**: clean the board, delete all numbers  
 **Hint**: reveal an answer of a cell, the order is based on the route of the chosen algorithm  
 
-
+## App Interface
+![App Interface](screenshots/app_interface.png?raw=true "App Interface")
+![App Solving](screenshots/app_solving.png?raw=true "App Solving")
 
